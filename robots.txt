@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mindelmu.github.io/sitemap
+Sitemap: https://mindelmu.github.io/app/sitemap
+Sitemap: https://mindelmu.github.io/assets/sitemap
+Sitemap: https://mindelmu.github.io/css/sitemap
+Sitemap: https://mindelmu.github.io/includes/sitemap
+Sitemap: https://mindelmu.github.io/item/sitemap
+Sitemap: https://mindelmu.github.io/src/sitemap
